@@ -1,0 +1,17 @@
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc
+
+# Ignorar la carpeta del entorno virtual
+venv/
+
+# Ignorar la base de datos de desarrollo
+*.db
+*.sqlite
+
+# Archivos de configuración de Alembic
+alembic.ini
+
+# Archivos de Expo/React Native
+.expo/
+node_modules/
